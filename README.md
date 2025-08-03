@@ -50,11 +50,11 @@ GreenCart is a modern and responsive full-stack e-commerce web application that 
 🙌 Acknowledgements
 This project was created as a personal full-stack development practice project. Thanks to:
 
--MongoDB
--Cloudinary
--Tailwind CSS
+- MongoDB
+- Cloudinary
+- Tailwind CSS
 
 ## 📬 Contact
--Mayank Dhimmar
--📧 mayankdhimmar300@gmail.com
--🔗 https://www.linkedin.com/in/mayank-dhimmar-4895b7235/
+- Mayank Dhimmar
+- 📧 mayankdhimmar300@gmail.com
+- 🔗 https://www.linkedin.com/in/mayank-dhimmar-4895b7235/
