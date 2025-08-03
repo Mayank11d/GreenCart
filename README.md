@@ -1,7 +1,5 @@
 # 🛒 GreenCart - E-commerce Web App
 
-![GreenCart Banner](https://green-cart-fjmw.vercel.app/assets/logo.png)
-
 GreenCart is a modern and responsive full-stack e-commerce web application that allows users to browse, search, add to cart, and place orders for products with secure authentication. Built with a MERN (MongoDB, Express.js, React.js, Node.js) stack and deployed on Vercel, GreenCart is scalable, fast, and user-friendly.
 
 🚀 **Live Demo:** [green-cart-fjmw.vercel.app](https://green-cart-fjmw.vercel.app/)  
