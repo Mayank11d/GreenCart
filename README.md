@@ -42,3 +42,30 @@ GreenCart is a modern and responsive full-stack e-commerce web application that 
 
 ## 🗂️ Folder Structure
 
+/client # React frontend
+/server # Express + MongoDB backend
+├── configs # DB & Cloudinary setup
+├── controllers # Request handlers
+├── models # Mongoose schemas
+├── routes # API route definitions
+├── middleware # Auth middleware
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js
+- MongoDB
+- Cloudinary Account (for image hosting)
+
+🙌 Acknowledgements
+This project was created as a personal full-stack development practice project. Thanks to:
+
+MongoDB
+Cloudinary
+Tailwind CSS
+
+📬 Contact
+Mayank Dhimmar
+📧 mayankdhimmar300@gmail.com
+🔗 https://www.linkedin.com/in/mayank-dhimmar-4895b7235/
